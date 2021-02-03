@@ -13,7 +13,7 @@ proc-macro2 = "0.4.30"
 quote = "0.6.12"
 
 [dependencies.rtfm-syntax]
-git = "https://github.com/japaric/rtfm-syntax"
+git = "https://github.com/rtic-rs/rtic-syntax.git"
 rev = "f1848362d2055397124349228a7d79856d3fbc0e"
 
 [dependencies.syn]
